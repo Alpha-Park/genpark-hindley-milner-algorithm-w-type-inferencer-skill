@@ -1,0 +1,13 @@
+{
+  "name": "genpark-hindley-milner-algorithm-w-type-inferencer-skill",
+  "version": "1.0.0",
+  "description": "Hindley-Milner Algorithm W type inference engine implementing Robinson first-order syntactic unification and principal polymorphic type reconstruction.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "hindley-milner",
+    "algorithm-w",
+    "type-inference",
+    "robinson-unification"
+  ]
+}
